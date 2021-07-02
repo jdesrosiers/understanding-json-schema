@@ -7,8 +7,9 @@ name = "pypi"
 sphinx = "<2.0.0"
 sphinx-bootstrap-theme = "*"
 jsonschema = "*"
+jschon = "0.6.0"
 
 [dev-packages]
 
 [requires]
-python_version = "3.7.10"
+python_version = "3.8"
